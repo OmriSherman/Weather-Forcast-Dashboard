@@ -1,0 +1,57 @@
+
+.header {
+  color: white;
+    text-align: center;
+    font-weight: 800;
+    font-size: 26px;
+    font-family: system-ui;
+    padding: 10px 0 15px 0;
+    margin-bottom: 30px;
+    border-bottom: 3px solid white;
+}
+
+.th-styling {
+    border-width: 10%;
+    text-align: 'center';
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+body {
+  background-color:  rgb(110,110,100);
+}
+
+.refresh{
+  display: flex;
+  justify-content: right;
+  margin-bottom: 10px;
+  
+}
+
+.refresh-button {
+  background-color: #BAFF39;
+  color: black;
+  border: none;
+  width: 120px;
+  height: 35px;
+  border-radius: 3px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.refresh-button:hover {
+  background-color: #87ba28;
+  text-decoration: none;
+}
+
+.grid-container {
+  display: grid;
+  border: 1px solid white;
+  grid-gap: 1px;
+  grid-template-columns: 500px auto;
+}
+
+
+
+

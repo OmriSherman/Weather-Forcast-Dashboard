@@ -1,0 +1,18 @@
+[
+    {
+      "id": "a",
+      "name": "Too hot outside to play golf",
+      "severity": "extreme"
+    },
+    {
+      "id": "b",
+      "name": "No wind for surfing",
+      "severity": "moderate"
+    },
+    {
+      "id": "c",
+      "name": "Too much rain for opening the restaurant outside",
+      "severity": "minor"
+    }
+  ]
+  
