@@ -1,6 +1,4 @@
-# Tomorrow.io-assignment
 
-Hey! this is the simple version to the home assignment.
 
 to run the project:
 
@@ -10,10 +8,9 @@ in /server:
 
 in /client/weather-app:
 1. npm i
-2. npm run dev (tried to re-script it to 'npm-start' but didn't work)
+2. npm run dev 
                        
-                       
-Had to rebuild the project 'from scratch' in react-vite since i had some weird issues when i ran the 'npm i' command in the cloned directory from the assignment's repository and didn't want to bother you guys on a weekend so I just decided to advance forward, hope you can see that as a good thing :)
+                  
 
 So a little bit about the functions in the assignment:
 
